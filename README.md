@@ -36,12 +36,10 @@ If you're in a team it does not mean you have an obligation to do something. The
 ## Thanks 
 Insta : jailkrak
 
-Face : jalikrak
-
 Tele : jailkrak
 
 WeChat : jailkrak
 
-Tik : jailkrak
 ## Deve
 Code By Jailkrak !
+V0.2 - Soon !
